@@ -1,4 +1,5 @@
 Nama : Bayu Daru Pangestu
 NIM : 09021282025085
 Tanggal Lahir : 11 Maret 2001
+Tempat Lahir : Jambi
 Deskripsi : Tertarik dengan Back-End
