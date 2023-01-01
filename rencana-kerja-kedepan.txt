@@ -2,7 +2,10 @@ Rencana Kerja Bayu :
 
 - Menyelesaikan perkuliahan
   Paling cepat 3,5 Tahun
+  IPK 3,5 keatas
 - Membangun branding diri sendiri
 - Mengikuti bootcamp
+  ^ Laravel
+  ^ React
 - Memperbaiki CV
 - Apply on StartUp
