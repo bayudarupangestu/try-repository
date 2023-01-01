@@ -8,4 +8,4 @@ Rencana Kerja Bayu :
   ^ Laravel
   ^ React
 - Memperbaiki CV
-- Apply on StartUp
+- Mendaftar pegawai negeri sipil
